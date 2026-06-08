@@ -1,4 +1,3 @@
-import os
 from datetime import datetime
 import uuid
 from dotenv import load_dotenv
