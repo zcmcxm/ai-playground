@@ -28,6 +28,12 @@ streamlit run main.py
 
 Then open the local Streamlit URL shown in the terminal.
 
+## Deployment
+
+The app is also deployed at:
+
+https://nltk-sentiment-analysis-9.streamlit.app/
+
 ## Notes
 
 - The folder should contain `.txt` files for analysis.
